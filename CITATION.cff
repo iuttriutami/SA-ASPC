@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archive."
+title: "SA-ASPC: calibrating the spatial penalty in fuzzy clustering of multivariate time trajectories"
+repository-code: "https://github.com/iuttriutami/SA-ASPC"
+authors:
+  - family-names: Utami
+    given-names: Iut Tri
+    affiliation: "Department of Statistics, Universitas Diponegoro"
+    orcid: "https://orcid.org/0000-0002-0162-2667"
+  - family-names: Daniaty
+    given-names: Diah
+    affiliation: "BPS-Statistics Indonesia"
+    orcid: "https://orcid.org/0009-0004-3382-381X"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-18"

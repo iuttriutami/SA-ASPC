@@ -1,0 +1,6 @@
+"B","P_correct","P_certified","P_false_cert","coverage","mean_set_size","P_empirical_pass","median_gamma"
+25,1,0,0,1,23,1,0.184
+50,1,0,0,1,10.385,1,0.184
+100,1,0,0,1,1,1,0.184
+200,1,0,0,1,1,1,0.184
+400,1,1,0,1,1,1,0.184
